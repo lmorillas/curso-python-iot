@@ -1,4 +1,6 @@
 public
 .gitignore.*
 *.lock
+.frontmatter
+.vscode
 

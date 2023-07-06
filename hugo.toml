@@ -1,0 +1,3 @@
+baseURL = 'http://example.org/'
+languageCode = 'es-es'
+title = 'Curso Python IoT'

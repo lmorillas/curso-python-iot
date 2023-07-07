@@ -3,4 +3,5 @@ public
 *.lock
 .frontmatter
 .vscode
+node_modules
 

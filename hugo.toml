@@ -1,5 +1,5 @@
-# baseURL = 'https://lmorillas.github.io/curso-python-iot/'
-baseURL = 'http://localhost:1313'
+baseURL = 'https://lmorillas.github.io/curso-python-iot/'
+#baseURL = 'http://localhost:1313'
 # canonifyURLs = true
 # relativeURLs = true
 

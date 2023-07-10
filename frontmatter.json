@@ -54,5 +54,10 @@
     {
       "path": "[[workspace]]/archetypes"
     }
-  ]
+  ],
+  "frontMatter.content.publicFolder": "static",
+  "frontMatter.framework.id": "hugo",
+  "frontMatter.preview.host": "http://localhost:1313",
+  "frontMatter.taxonomy.categories": [],
+  "frontMatter.taxonomy.tags": []
 }

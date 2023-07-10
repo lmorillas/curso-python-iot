@@ -4,4 +4,5 @@ public
 .frontmatter
 .vscode
 node_modules
+tmp
 

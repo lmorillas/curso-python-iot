@@ -1,7 +1,7 @@
 baseURL = 'https://lmorillas.github.io/curso-python-iot/'
 #baseURL = 'http://localhost:1313'
-# canonifyURLs = true
-# relativeURLs = true
+#canonifyURLs = true
+#relativeURLs = true
 
 languageCode = 'es'
 title = 'Curso Python IoT'
@@ -253,17 +253,17 @@ enable = false
 
 [[params.versions]]
   version = "Sesión 1"
-  url = "/sesion-1/"
+  url = "/curso-python-iot/sesion-1/"
 
 [[params.versions]]
   version = "Sesión 2"
-  url = "/sesion-2/"
+  url = "/curso-python-iot/sesion-2/"
 
 [[params.versions]]
   version = "Sesión 3"
-  url = "/sesion-3/"
+  url = "/curso-python-iot/sesion-3/"
 
 [[params.versions]]
   version = "Sesión 4"
-  url = "/sesion-4/"
+  url = "/curso-python-iot/sesion-4/"
 

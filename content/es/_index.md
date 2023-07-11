@@ -3,10 +3,10 @@ title: Curso de Python e IoT
 ---
 
 {{< blocks/cover title="Curso de Python e IoT" image_anchor="top" height="full" >}}
-<a class="btn btn-lg btn-primary me-3 mb-4" href="/docs/">
+<a class="btn btn-lg btn-primary me-3 mb-4" href="/curso-python-iot/about/">
   Descripción <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
-<a class="btn btn-lg btn-secondary me-3 mb-4" href="https://github.com/google/docsy-example">
+<a class="btn btn-lg btn-secondary me-3 mb-4" href="https://github.com/lmorillas/curso-python-iot">
   Resursos <i class="fab fa-github ms-2 "></i>
 </a>
 <p class="lead mt-5">Curso para profesores</p>

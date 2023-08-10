@@ -16,6 +16,11 @@ description: >
 * Números
 {{% /pageinfo %}}
 
+## Notebook
+<a target="_blank" href="https://colab.research.google.com/github/lmorillas/curso-python-iot/blob/main/notebooks/nombres-cadenas-numeros.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 
 ## Variables
 

@@ -1,7 +1,7 @@
 ---
 title: Acerca de
 linkTitle: Acerca de
-menu: {main: {weight: 100}}
+menu: {main: {weight: 500}}
 ---
 
 {{% blocks/cover title="Acerca de" height="auto" %}}

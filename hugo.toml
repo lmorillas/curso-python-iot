@@ -113,9 +113,9 @@ version = "0.0"
 url_latest_version = "https://example.com"
 
 # Repository configuration (URLs for in-page links to opening issues and suggesting changes)
-github_repo = "https://github.com/google/docsy-example"
+github_repo = "https://github.com/lmorillas/curso-python-iot"
 # An optional link to a related project repo. For example, the sibling repository where your product code lives.
-github_project_repo = "https://github.com/google/docsy"
+# github_project_repo = "https://github.com/google/docsy"
 
 # Specify a value here if your content directory is not in your repo's root directory
 # github_subdir = ""
@@ -125,7 +125,7 @@ github_project_repo = "https://github.com/google/docsy"
 github_branch= "main"
 
 # Google Custom Search Engine ID. Remove or comment out to disable search.
-gcs_engine_id = "d72aa9b2712488cc3"
+# gcs_engine_id = "d72aa9b2712488cc3"
 
 # Enable Algolia DocSearch
 algolia_docsearch = false
@@ -149,11 +149,16 @@ navbar_logo = false
 # Set to true if you don't want the top navbar to be translucent when over a `block/cover`, like on the homepage.
 navbar_translucent_over_cover_disable = false
 # Enable to show the side bar menu in its compact state.
-sidebar_menu_compact = false
+sidebar_menu_compact = true
 # Set to true to hide the sidebar search box (the top nav search box will still be displayed if search is enabled)
 sidebar_search_disable = true
 # sidebar_menu_foldable = false
 sidebar_cache_limit = 10
+ul_show = 1
+sidebar_menu_foldable = true
+taxonomy_breadcrumb_disable = true
+meta_links_disable = true
+
 
 
 # Adds a H2 section titled "Feedback" to the bottom of each doc. The responses are sent to Google Analytics as events.
@@ -174,37 +179,19 @@ enable = false
 
 [params.links]
 # End user relevant links. These will show up on left side of footer and in the community page if you have one.
+
 [[params.links.user]]
-  name = "User mailing list"
-  url = "https://example.org/mail"
-  icon = "fa fa-envelope"
-  desc = "Discussion and help from your fellow users"
-[[params.links.user]]
-  name ="Twitter"
-  url = "https://example.org/twitter"
-  icon = "fab fa-twitter"
-  desc = "Follow us on Twitter to get the latest news!"
-[[params.links.user]]
-  name = "Stack Overflow"
-  url = "https://example.org/stack"
-  icon = "fab fa-stack-overflow"
-  desc = "Practical questions and curated answers"
+  name ="@lmorillas"
+  url = "https://github.com/lmorillas"
+  icon = "fa fa-person-digging"
+  desc = "Contacta por GitHub"
+
 # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
 [[params.links.developer]]
   name = "GitHub"
-  url = "https://github.com/google/docsy"
+  url = "https://github.com/lmorillas/curso-python-iot"
   icon = "fab fa-github"
-  desc = "Development takes place here!"
-[[params.links.developer]]
-  name = "Slack"
-  url = "https://example.org/slack"
-  icon = "fab fa-slack"
-  desc = "Chat with other project developers"
-[[params.links.developer]]
-  name = "Developer mailing list"
-  url = "https://example.org/mail"
-  icon = "fa fa-envelope"
-  desc = "Discuss development issues around the project"
+  desc = "Desarrollo del curso"
 
 # hugo module configuration
 
@@ -221,7 +208,6 @@ enable = false
   [[module.imports]]
     path = "github.com/google/docsy/dependencies"
     disable = false
-# theme = ["github.com/McShelby/hugo-theme-relearn"]
 
 
 

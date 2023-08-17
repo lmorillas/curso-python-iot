@@ -3,5 +3,8 @@ github.com/McShelby/hugo-theme-relearn v0.0.0-20230622170510-61ccf4e42f4f h1:7SM
 github.com/McShelby/hugo-theme-relearn v0.0.0-20230622170510-61ccf4e42f4f/go.mod h1:mKQQdxZNIlLvAj8X3tMq+RzntIJSr9z7XdzuMomt0IM=
 github.com/google/docsy v0.7.1 h1:DUriA7Nr3lJjNi9Ulev1SfiG1sUYmvyDeU4nTp7uDxY=
 github.com/google/docsy v0.7.1/go.mod h1:JCmE+c+izhE0Rvzv3y+AzHhz1KdwlA9Oj5YBMklJcfc=
+github.com/google/docsy v0.7.2-0.20230811152223-d52e5093e068 h1:fEojd2NJTzLsvxb1Luceu/6m84kjL271N2liKVpVcgg=
+github.com/google/docsy v0.7.2-0.20230811152223-d52e5093e068/go.mod h1:JCmE+c+izhE0Rvzv3y+AzHhz1KdwlA9Oj5YBMklJcfc=
+github.com/google/docsy/dependencies v0.7.1 h1:NbzYKJYMin2q50xdWSUzR2c9gCp7zR/XHDBcxklEcTQ=
 github.com/google/docsy/dependencies v0.7.1/go.mod h1:gihhs5gmgeO+wuoay4FwOzob+jYJVyQbNaQOh788lD4=
 github.com/twbs/bootstrap v5.2.3+incompatible/go.mod h1:fZTSrkpSf0/HkL0IIJzvVspTt1r9zuf7XlZau8kpcY0=

@@ -16249,7 +16249,7 @@ readers do not read off random characters that represent icons */
     z-index: 1; }
 
 @media (min-width: 992px) {
-  .td-max-width-on-larger-screens, .td-card.card, .td-content .td-card.highlight, .td-card-group.card-group, .td-content .footnotes,
+  .td-max-width-on-larger-screens, .td-card.card, .td-content .td-card.highlight, .td-card-group.card-group, .tab-content .tab-pane, .td-content .footnotes,
   .td-content > .alert,
   .td-content > .highlight,
   .td-content > .lead,
@@ -18586,7 +18586,6 @@ div.drawioframe {
 .tab-content .tab-pane {
   margin-top: 0rem;
   margin-bottom: 1.5rem;
-  max-width: 80%;
   border-left: 1px solid rgba(0, 0, 0, 0.125);
   border-right: 1px solid rgba(0, 0, 0, 0.125);
   border-bottom: 1px solid rgba(0, 0, 0, 0.125); }
@@ -18637,6 +18636,9 @@ div.drawioframe {
 .td-card .card-body pre {
   margin: 0;
   padding: 0 1rem 1rem 1rem; }
+
+.swagger-ui .info .title small pre, .swagger-ui .info .title .small pre, .swagger-ui .info .title .td-footer__copyright-etc pre, .swagger-ui .info .title .td-cover-block > .byline pre {
+  background: #7d8492; }
 
 .td-footer {
   min-height: 150px;

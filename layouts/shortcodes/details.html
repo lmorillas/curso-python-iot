@@ -1,0 +1,3 @@
+<details {{with .Get "mode-switcher" }}data-mode="{{.}}" class="{{.}}"{{end}} {{if .Get "open"}}open{{end}}>
+  <summary>{{with .Get "summary" }}{{.}}{{else}}Click to expand{{end}}</summary>
+  {{.Inner}}</details>

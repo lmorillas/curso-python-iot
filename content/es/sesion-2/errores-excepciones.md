@@ -1,7 +1,7 @@
 ---
 title: "Errores y Excepciones"
 
-weight: 60
+weight: 30
 #isFolder: true
 
 ---

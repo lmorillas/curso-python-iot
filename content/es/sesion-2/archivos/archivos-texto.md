@@ -16,7 +16,7 @@ weight: 10
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-* <a target="_blank" href="https://colab.research.google.com/github/lmorillas/Introduccion-Python-3/blob/curso-py-iot/notebooks/beginner/exercises/10_file_io_exercise.ipynb">
+* **🛠️** <a target="_blank" href="https://colab.research.google.com/github/lmorillas/Introduccion-Python-3/blob/curso-py-iot/notebooks/beginner/exercises/10_file_io_exercise.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 

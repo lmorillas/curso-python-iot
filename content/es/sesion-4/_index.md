@@ -1,5 +1,5 @@
 ---
-title: "Visualización de datos con Python"
+title: "Datos y aplicaciones"
 linkTitle: "Sesión 4"
 
 #isFolder: true
@@ -18,6 +18,15 @@ data: >
   https://dev.to/shittu_olumide_/build-your-first-data-science-project-from-your-netflix-data-4gi0
   https://himanshi-png.github.io/Netflix-Data-Analysis/
   https://bjolko.github.io/netflix-analysis/  **
+
+  https://www.learndatasci.com/tutorials/python-pandas-tutorial-complete-introduction-for-beginners/
+
+
+  ** https://www.kaggle.com/code/edwardtoledolpez/beer-stadistics
+
+
+  https://bjolko.github.io/netflix-analysis/
+  
 
 ---
 

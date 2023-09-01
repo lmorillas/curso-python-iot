@@ -28,7 +28,7 @@ notas: >
 
 
 ## Notebook Base
-* <a target="_blank" href="https://colab.research.google.com/github/lmorillas/curso-python-iot/blob/sesiones/notebooks/scraping_html.ipynb">
+* <a target="_blank" href="https://colab.research.google.com/github/lmorillas/curso-python-iot/blob/main/notebooks/scraping_html.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
@@ -51,7 +51,7 @@ Para `XPath` aquí tienes un buen resumen de selectores https://devhints.io/xpat
 ## requests-html
 `requests-html` permite acceder a página generadas con JavaScript (SPA por ejemplo). Pero la gestión de los procesos choca con `Jupyter`.
 
-Echa un vistazo a este ejemplo: https://github.com/lmorillas/curso-python-iot/blob/sesiones/src/scraping-spa.py
+Echa un vistazo a este ejemplo: https://github.com/lmorillas/curso-python-iot/blob/main/src/scraping-spa.py
 
 > Descárgalo y ejecútalo en tu ordenador.
 

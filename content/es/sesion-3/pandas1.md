@@ -13,7 +13,7 @@ notas: >
 ## Documentación
 * https://pandas.pydata.org/docs/index.html
 
-* <a target="_blank" href="https://colab.research.google.com/github/lmorillas/curso-python-iot/blob/sesiones/notebooks/introduccion_pandas.ipynb">
+* <a target="_blank" href="https://colab.research.google.com/github/lmorillas/curso-python-iot/blob/main/notebooks/introduccion_pandas.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 

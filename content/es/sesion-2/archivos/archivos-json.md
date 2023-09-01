@@ -12,11 +12,11 @@ weight: 20
 * https://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files
 
 ## Notebook Base
-* <a target="_blank" href="https://colab.research.google.com/github/lmorillas/curso-python-iot/blob/sesiones/notebooks/archivos-json.ipynb">
+* <a target="_blank" href="https://colab.research.google.com/github/lmorillas/curso-python-iot/blob/main/notebooks/archivos-json.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-* **🛠️** <a target="_blank" href="https://colab.research.google.com/github/lmorillas/curso-python-iot/blob/sesiones/notebooks/archivos-json-ejercicio.ipynb">
+* **🛠️** <a target="_blank" href="https://colab.research.google.com/github/lmorillas/curso-python-iot/blob/main/notebooks/archivos-json-ejercicio.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 

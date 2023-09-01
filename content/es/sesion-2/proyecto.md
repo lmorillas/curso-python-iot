@@ -15,7 +15,7 @@ Usa el archivo https://www.tdtchannels.com/lists/tv.json para crear un visualiza
 Si lo quieres ver en el navegador, necesitarás una extensión para ver archivos `m3u`.
 
 
-<a target="_blank" href="https://colab.research.google.com/github/lmorillas/curso-python-iot/blob/sesiones/notebooks/proyecto2.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/lmorillas/curso-python-iot/blob/main/notebooks/proyecto2.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 

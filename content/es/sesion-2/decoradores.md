@@ -64,15 +64,3 @@ Cuando llamamos a `mi_funcion`, en realidad estamos llamando a `wrapper`, que a 
 3. **Modificación Dinámica**: Permiten modificar el comportamiento de una función o clase sin tener que modificar su código fuente.
 
 4. **Legibilidad**: Mejoran la legibilidad al etiquetar las funciones con su comportamiento adicional.
-
-## ¿Por Qué se Utilizan Tanto Ahora?
-
-1. **Desarrollo Web**: En frameworks como Flask y Django, los decoradores se usan ampliamente para manejar rutas, permisos, entre otros.
-
-2. **Código Asíncrono**: Con la introducción de `asyncio`, los decoradores se usan para manejar tareas asíncronas.
-
-3. **Analítica y Monitoreo**: En la ciencia de datos y en el aprendizaje automático, los decoradores pueden ser útiles para registrar métricas o manejar recursos.
-
-4. **Decoradores de Clase**: Con la creciente popularidad de la programación orientada a objetos, los decoradores de clases se están utilizando más para extender la funcionalidad de las clases de manera limpia y reutilizable.
-
-5. **Soporte en el Lenguaje**: Python ha añadido varias características de lenguaje (como el uso de `@` para decoradores) que hacen que los decoradores sean más fáciles de escribir y entender.

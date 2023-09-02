@@ -5,12 +5,7 @@ weight: 28
 #isFolder: true
 
 ---
-@duplicador
-@suma_cinco
-def suma(a, b):
-    return a + b
 
-resultado = suma(3, 2)
 {{% pageinfo color="primary" %}}
 ## Documentación
 * https://docs.python.org/3/glossary.html#term-decorator

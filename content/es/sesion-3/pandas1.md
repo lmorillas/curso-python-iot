@@ -78,8 +78,12 @@ print(f"Ingreso por fecha:\n{ingreso_fecha}")
 
 ### Filtrar y organizar datos climáticos
 
+* Descarga los datos de Zaragoza de este verano (julio y agosto) de la web de AEMET: https://opendata.aemet.es/centrodedescargas/productosAEMET? Necesitarás generarte una API Key. Los datos los tienes también aquí: [julio] [agosto] [metadatos]
+* Analiza los metadatos.
+
+
+
 1. Suponga que tiene un archivo CSV (`clima.csv`) con datos climáticos que incluyen `Fecha`, `Temperatura` y `Humedad`.
 2. Utilice Pandas para filtrar los días en los que la `Temperatura` fue superior a 25 grados y la `Humedad` fue inferior al 50%.
 3. Guarde este subconjunto de datos en un nuevo archivo CSV (`dias_calurosos.csv`).
 
-Este ejercicio permitirá a los estudiantes practicar la lectura de archivos, el filtrado basado en condiciones y la escritura en archivos, todo lo cual son tareas comunes en el análisis de datos.

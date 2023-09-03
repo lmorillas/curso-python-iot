@@ -253,3 +253,4 @@ enable = false
   version = "Sesión 4"
   url = "/curso-python-iot/sesion-4/"
 
+staticDir = ['static']

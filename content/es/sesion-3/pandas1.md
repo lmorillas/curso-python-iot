@@ -12,12 +12,14 @@ notas: >
 {{% pageinfo %}}
 ## Documentación
 * https://pandas.pydata.org/docs/index.html
+* https://python-textbook.pythonhumanities.com/02_pandas/
 
 * <a target="_blank" href="https://colab.research.google.com/github/lmorillas/curso-python-iot/blob/main/notebooks/pandas_introduccion.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-* <a target="_blank" href="https://colab.research.google.com/github/lmorillas/curso-python-iot/blob/main/notebooks/pandas1_ejercicio.ipynb">
+
+* Ejercicio <a target="_blank" href="https://colab.research.google.com/github/lmorillas/curso-python-iot/blob/main/notebooks/pandas1_ejercicio.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 {{% /pageinfo %}}

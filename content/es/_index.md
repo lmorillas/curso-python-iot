@@ -10,13 +10,15 @@ title: Curso de Python e IoT
 <a class="btn btn-lg btn-secondary me-3 mb-4" href="https://github.com/lmorillas/curso-python-iot">
   Resursos <i class="fab fa-github ms-2 "></i>
 </a>
+
 <p class="lead mt-5">Curso para profesores</p>
 {{< blocks/link-down color="info" >}}
 {{< /blocks/cover >}}
 
 
 {{% blocks/lead color="primary" %}}
-## Objetivos
+![QR](/qr-curso.png)
+
 {{% /blocks/lead %}}
 
 

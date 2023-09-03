@@ -157,7 +157,7 @@ sidebar_cache_limit = 10
 ul_show = 1
 sidebar_menu_foldable = true
 taxonomy_breadcrumb_disable = true
-meta_links_disable = true
+#meta_links_disable = true
 
 
 
@@ -253,4 +253,3 @@ enable = false
   version = "Sesión 4"
   url = "/curso-python-iot/sesion-4/"
 
-staticDir = ['static']

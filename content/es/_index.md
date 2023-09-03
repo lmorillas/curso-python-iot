@@ -17,7 +17,7 @@ title: Curso de Python e IoT
 
 
 {{% blocks/lead color="primary" %}}
-![QR](/qr-curso.png)
+![QR](https://raw.githubusercontent.com/lmorillas/curso-python-iot/main/static/qr_curso.png)
 
 {{% /blocks/lead %}}
 

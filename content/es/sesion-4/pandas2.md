@@ -34,7 +34,15 @@ data: >
 
 ---
 
+{{% pageinfo %}}
+## Documentación
+* https://pandas.pydata.org/docs/index.html
 
+* <a target="_blank" href="https://colab.research.google.com/github/lmorillas/curso-python-iot/blob/main/notebooks/usando_pandas.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+{{% /pageinfo %}}
 
 ## Ejemplos para practicar
 

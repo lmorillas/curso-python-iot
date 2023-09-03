@@ -4,7 +4,7 @@ date: 2021-10-21T10:29:17+02:00
 linkTitle: "Pandas 1"
 weight: 40
 description: >
-    Introducción a la gestión de datos con Pandas
+    Introducción rápida a la gestión de datos con Pandas
 notas: > 
     
 
@@ -19,9 +19,7 @@ notas: >
 
 {{% /pageinfo %}}
 
-# Clase: Introducción a la Librería Pandas en Python
-
-## Introducción Teórica
+## Introducción
 
 ### ¿Qué es Pandas?
 

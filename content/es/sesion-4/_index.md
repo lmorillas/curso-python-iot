@@ -28,11 +28,13 @@ data: >
   https://bjolko.github.io/netflix-analysis/
   
 
+  ## Herramientas
+
+  * click  https://click.palletsprojects.com/
+  * fabric https://www.fabfile.org/
+
 ---
 
-
-
-## Herramientas
-
-* click  https://click.palletsprojects.com/
-* fabric https://www.fabfile.org/
+> Repaso sesión 3  <a target="_blank" href="https://colab.research.google.com/github/lmorillas/curso-python-iot/blob/main/notebooks/repaso_dia_3.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>

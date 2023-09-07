@@ -34,3 +34,6 @@ Por ejemplo:
 * https://github.com/aws-samples/amazon-textract-code-samples/blob/master/python/04-nlp-comprehend.py
 
 Intenta cambiar las imágenes de ejemplo por otras que te resulten más interesantes.
+
+### Escrito a mano 
+https://aws.amazon.com/es/blogs/machine-learning/amazon-textract-recognizes-handwriting-and-adds-five-new-languages/
